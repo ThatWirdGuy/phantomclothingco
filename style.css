@@ -12,5 +12,6 @@ button {
     font-weight: bold;
     color: white;
     font-size: 55px;
-    height: 1500px;
+    position: absolute;
+    top: 20px; 
 }

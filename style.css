@@ -1,3 +1,12 @@
 body {
   background-image: linear-gradient(to right, #14351B, #141B35);
 }
+
+button {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}

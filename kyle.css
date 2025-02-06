@@ -1,3 +1,13 @@
 body{
  background-image: linear-gradient(to right, #0a0f57, #240026);
 }
+
+p {
+     font-weight: bold;
+    color: white;
+}
+
+h1 {
+    font-weight: bold;
+    color: white;
+}

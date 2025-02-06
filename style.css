@@ -18,6 +18,6 @@ button {
 }
 
 button:hover {
-      background-color:#002ead;
+      background-color:#737373;
       transition: 0.7s;
   }
